@@ -1,5 +1,18 @@
+.amator{
+  background-color: #f1f1f1; 
+  padding: 40px; 
+  text-align: center;
+}
+
 .author {
   font-size: 20px;
   color: #66ccff;
   font-weight: bold;
+}
+
+.email{
+  background-color: #f1f1f1;
+  padding: 40px;
+  text-align: center;
+  font-size: 12px;
 }
