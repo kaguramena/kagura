@@ -1,4 +1,0 @@
-git
-gitgit
-gitgitgit
-gitgitgit
